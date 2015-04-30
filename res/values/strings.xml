@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Security</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello, brother, I\'m just a useless facade ~</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="display"></string>
+
+</resources>
